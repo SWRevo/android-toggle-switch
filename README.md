@@ -10,19 +10,44 @@ A customizable extension of Android Switches that supports also more than 2 item
 #### Gradle
 Add Gradle dependency:
 
-```groovy
+Step 1. Add the JitPack repository to your build file
+
+```gradle
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+```
+
+Step 2. Add the dependency
+
+```gradle
 dependencies {
-    compile 'us.id:androidtoggleswitch:1.2.2'
+    implementation 'com.github.SWRevo:android-toggle-switch:Tag'
 }
 ```
 
 #### Maven
+
+Step 1. Add the JitPack repository to your build file
+
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+	</repository>
+</repositories>
+```
+Step 2. Add the dependency
+
 ```xml
 <dependency>
-  <groupId>us.id</groupId>
-  <artifactId>androidtoggleswitch</artifactId>
-  <version>1.2.2</version>
-  <type>pom</type>
+    <groupId>com.github.SWRevo</groupId>
+    <artifactId>android-toggle-switch</artifactId>
+    <version>Tag</version>
 </dependency>
 ```
 
