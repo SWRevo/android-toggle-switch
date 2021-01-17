@@ -1,5 +1,7 @@
 # Android-Toggle-Switch
 
+[![](https://jitpack.io/v/SWRevo/android-toggle-switch.svg)](https://jitpack.io/#SWRevo/android-toggle-switch)
+
 A customizable extension of Android Switches that supports also more than 2 items.
 
 ![Sample of libray](docs/screen.jpg)
