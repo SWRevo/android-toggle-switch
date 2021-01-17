@@ -170,9 +170,9 @@ Set<Integer> checkedPositions = multipleToggleSwitch.getCheckedTogglePositions()
 
 ```java
 toggleSwitch.setOnToggleSwitchChangeListener((position, isChecked) -> {
-            // Write your code
-            Toast.makeText(getApplicationContext(),"Click Position"+position,Toast.LENGTH_SHORT).show();
-        });
+	// Write your code
+        Toast.makeText(getApplicationContext(),"Click Position"+position,Toast.LENGTH_SHORT).show();
+});
 ```
 
 
