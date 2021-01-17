@@ -214,3 +214,23 @@ It is possible to customize the buttons applying the following options:
 ```
 
 ![Sample of libray with 3 items](docs/customized.gif)
+
+## ORIGINAL SOURCE
+This project is the implementation of project sources from: [fornewid](https://github.com/BelkaLab/Android-Toggle-Switch)
+
+## Contributors
+Lorenzo Rigato,
+Fabrizio Rizzonelli, Android Developer @[Belka](https://github.com/BelkaLab)
+
+## License
+Android-Toggle-Switch is Copyright (c) 2016 Belka, srl. It is free software, and may be redistributed under the terms specified in the LICENSE file.  
+
+## About Belka
+![Belka Logo](https://s.gravatar.com/avatar/88dc2225d85299e04489f56d5f38a533?size=180)
+
+[Belka](http://belka.us/en) is a Digital Agency specialized in design, mobile applications development and custom solutions.
+We love open source software! You can [see our projects](http://belka.us/en/portfolio/) or look at our case studies.
+
+Interested? [Hire us](http://belka.us/en/contacts/) to help build your next amazing project.
+
+[www.belka.us](http://belka.us/en)
